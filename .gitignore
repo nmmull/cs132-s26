@@ -1,2 +1,8 @@
 .DS_Store
 slides
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.toc
