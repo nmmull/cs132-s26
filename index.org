@@ -5,7 +5,7 @@ This course is an introduction to linear algebra with an emphasis on
 applications in computer science.  It's based heavily on (and depends
 on the material for) the version of the course taught by [[https://www.cs.bu.edu/fac/crovella/][Mark Crovella]].
 * Links
-+ Course Manual
++ [[file:manual/main.pdf][Course Manual]]
 + Course Repository
 + [[https://piazza.com/bu/spring2026/cascs132][Piazza]]
 + [[https://www.gradescope.com/courses/1222810][Gradescope]] (6XXVDP)
