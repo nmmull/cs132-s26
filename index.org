@@ -6,6 +6,7 @@ applications in computer science.  It's based heavily on (and depends
 on the material for) the version of the course taught by [[https://www.cs.bu.edu/fac/crovella/][Mark Crovella]].
 * Links
 + [[file:manual/main.pdf][Course Manual]]
++ [[file:workbook/v001.pdf][Course Workbook]]
 + Course Repository
 + [[https://piazza.com/bu/spring2026/cascs132][Piazza]]
 + [[https://www.gradescope.com/courses/1222810][Gradescope]] (6XXVDP)
