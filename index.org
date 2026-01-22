@@ -22,7 +22,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 | Date | Topic                             | Notes                  |
 |------+-----------------------------------+------------------------|
 | 1/20 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L01LinearEquations.html][Solving Linear Systems]]            | Read the course manual |
-| 1/22 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L01LinearEquations.html][Echelon Forms]]                     | Assignment 1 (A1) out  |
+| 1/22 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L01LinearEquations.html][Echelon Forms]]                     | [[file:assignments/01/assign01.org][Assignment 1 (A1)]] out  |
 |------+-----------------------------------+------------------------|
 | 1/26 | Lab 1: Introduction to NumPy      |                        |
 | 1/27 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L03RowReductions.html][Gaussian Elimination]]              |                        |
