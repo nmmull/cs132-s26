@@ -17,10 +17,6 @@ and it's Applications/ by David C. Lay, Steven R. Lay, and Judi
 J. McDonald.  As a reminder, we recommend this textbook as a source
 for supplementary exercises.
 
-All problems that are /not/ bolded are review for the midterm exam.
-In particular, the topics covered in the bolded problems will not
-appear on the midterm exam.
-
 *Basic Problems:* 12.2, 12.6, 12.8, 12.10, 13.1, 13.5
 
 *True/False:* 12.13, 12.17, 12.18, 12.28, 12.29, 13.11, 13.12, 13.20
