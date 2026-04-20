@@ -1,0 +1,22 @@
+#+title: Lab 4 Extra Credit Gallery
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../../style.css" />
+#+OPTIONS: html-style:nil H:2 toc:nil todo:nil author:nil date:nil
+#+HTML_LINK_HOME: ../../index.html
+
+[[file:ec/1.png]]
+
+[[file:ec/2.png]]
+
+[[file:ec/3.png]]
+
+[[file:ec/4.png]]
+
+[[file:ec/5.png]]
+
+[[file:ec/6.png]]
+
+[[file:ec/7.png]]
+
+[[file:ec/8.png]]
+
+[[file:ec/9.png]]
