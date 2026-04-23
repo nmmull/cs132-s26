@@ -75,7 +75,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 | 4/20 | *No Lab*                                                        | Patriots’ Day                         |
 | 4/21 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L23LinearModels.html][Linear Models]]                                                   |                                       |
 | 4/22 | [[file:labs/6/lab6.pdf][Lab 6: Multiple Regression]] ([[file:labs/6/lab6.py][lab6.py]])                            |                                       |
-| 4/23 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L24SymmetricMatrices.html][Quadratic Forms]] (Workshop)                                      | A12 out, A11 due                      |
+| 4/23 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L24SymmetricMatrices.html][Quadratic Forms]] (Workshop)                                      | [[file:assignments/12/assign12.org][A12]] out, A11 due                      |
 |------+-----------------------------------------------------------------+---------------------------------------|
 | 4/27 | Final Exam Review                                               |                                       |
 | 4/28 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L25SVD.html][Singular Value Decomposition]]                                    |                                       |
