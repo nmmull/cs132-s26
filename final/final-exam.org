@@ -1,0 +1,209 @@
+#+title: Final Exam Prep Material
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../style.css" />
+#+OPTIONS: html-style:nil H:2 toc:nil num:nil
+#+HTML_LINK_HOME: ../index.html
+This page contains some information/material may be useful in
+preparing for the final exam.  The information here is not exhaustive,
+and I can pretty much guarantee that there will be at least one
+question on the final exam this is distinct from any problem that
+we've done before.
+* General Study Material
++ [[https://nmmull.github.io/cs132-s26/workbook/v004.pdf][Course Workbook]]: The course workbook is a great place to find
+  practice problems. Many of the problems that appear there are
+  previous exam problems
++ [[https://www.pearson.com/en-us/subject-catalog/p/linear-algebra-and-its-applications/P200000006235/9780136880929][Linear Algebra and Its Applications by Lay, Lay, and McDonald]]: Many
+  of the problems we write are similar or based on problems that
+  appear in this textbook.[fn::it's an open secret that it's not
+  difficult to find a pdf copy of this text]
+* Practice Exams
++ [[file:practice-final-1.pdf][practice exam (1)]]
++ [[file:practice-final-2.pdf][practice exam (2)]]
++ [[file:practice-final-3.pdf][practice exam (3)]]
++ [[file:practice-final-4.pdf][practice exam (4)]]
+* Topics
+** Systems of linear equations
+  - Counting solutions
+    - Consistency
+    - Uniqueness
+    - Infinite solutions
+  - Coefficient matrices
+  - Augmented matrices
+  - Finding solutions
+    - Elimination
+    - Back substitution
+  - Verifying solutions
+  - Elementary row operations
+    - Replacement
+    - Interchange
+    - Scaling
+  - Row Equivalence
+** Gaussian elimination
+  - Echelon forms
+  - Reduced echelon forms
+  - Pivot positions and pivot rows
+  - Performing Gaussian elimination
+    - Elimination
+    - Back substitution
+  - Interpreting echelon forms
+    - Basic variables
+    - Free variables
+    - General-form solutions
+  - *EXCLUDING*: FLOP counts
+** Vector equations
+  - (Column) vectors
+  - Vector operations
+    - Addition
+      - Parallelogram rule
+      - Tip-to-tail rule
+    - Multiplication
+    - Scaling
+    - Algebraic properties
+  - Linear combinations
+  - Vector equations
+    - Equivalence with systems of linear equations
+  - Span
+** Ax = b
+  - Matrix-vector multiplication
+    - Algebraic properties
+      - Additivity
+      - Homogeneity
+  - The matrix equation
+    - Equivalence with systems of linear equations
+  - Inner products
+  - The identity matrix
+** Linear independence
+  - Linear dependence
+  - Spanning sets
+  - Network flow
+** Linear transforms
+  - Definitions
+    - Domain
+    - Codomain
+    - Image
+    - Range
+  - Linearity
+  - Algebraic properties (of Linear Transformations)
+  - Simple linear transformations
+    - Shearing
+    - Contraction
+    - Dilation
+    - Rotation
+    - Reflection
+    - Projection
+  - Simple non-linear transformations
+    - Translation
+  - Non-geometric word problems
+    - Manufacturing example
+** Matrix of a transformation
+  - Finding the matrix implementing a linear transformation
+  - Kinds of linear transformations
+    - One-to-one
+    - Onto
+  - 2 × 2 Determinants
+    - *EXCLUDING*: Relationship with area
+** Matrix algebra
+  - Matrix Operations
+    - Addition
+    - Multiplication
+      - Relation to composition
+    - Scaling
+    - Algebraic properties
+      - Matrix multiplication is not commutative
+    - Powers
+    - Transposition
+  - Inner product
+  - *EXCLUDING*: Computational viewpoint
+** Matrix inverses
+  - Invertibility
+  - Singular vs. non-singular matrices
+  - Determinants
+  - Equivalence to solving systems of linear equations
+  - *EXCLUDING*:
+    - Computational view
+    - Ill-conditioned matrices
+  - The invertible matrix theorem
+** Markov chains
+  - Linear dynamical systems/linear difference equations
+  - Probability vectors
+  - Stochastic matrices
+  - Steady-states
+  - Convergence to steady states
+** Matrix factorization
+  - LU factorization
+  - Elementary matrices
+  - *EXCLUDING*:
+    - Forward substitution
+    - FLOP counts
+    - Pivoting
+** Computer graphics
+  - Homogeneous coordinates
+  - Rotation matrices
+  - Perspective projections
+  - Composing transformation
+  - *EXCLUDING*: programming aspects of graphics
+** Subspaces
+  - Equivalence with spans
+  - Column space
+  - Null space
+  - Basis
+    - of column space
+    - of null space
+** Dimension and rank
+  - Coordinate systems
+  - Dimension of a subspace
+    - of column space
+    - of null space
+  - Rank
+  - Rank-nullity theorem
+  - *EXCLUDING*: Isomorphism
+** Eigenvectors and eigenvalues
+  - Checking eigenvectors/values
+  - Finding eigenvectors
+  - Eigenspace
+  - Eigenvalues of triangular matrices
+  - Invertibility and eigenvalues
+  - Eigenvalues solve difference equations
+** The characteristic equation
+  - Determinants
+  - Finding the characteristic polynomial
+  - Finding eigenvalues
+  - Similarity
+  - Complete solution for a Markov chain
+** Diagonalizability
+  - Diagonal matrices
+  - Similar Matrices
+  - Diagonalizability
+  - Eigenbasis
+  - Exposing the behavior of dynamical systems
+** Analytic geometry
+  - Inner product/dot product
+  - Norm
+  - Distance
+  - Angle
+  - Orthogonality
+  - Cosine similarity
+** Orthogonal projection
+  - Orthogonal basis
+  - Orthogonal projection
+  - Projections and coordinates
+  - Orthonormal sets
+  - Orthogonal matrices
+** Least squares
+  - Finding least squares
+  - Normal equations
+  - Projecting onto a basis
+** Linear models
+  - Best fit line/quadratic
+  - Multiple regression
+  - Design matrices
+** Symmetric matrices
+  - Orthogonal diagonalization
+  - Quadratic forms
+  - Definiteness
+  - Constrained optimization
+** Singular value decomposition
+  - $\|A\mathbf x\|^2$ as a quadratic form
+  - Singular values
+  - Determining the SVD of a matrix
+  - Reduced SVD and the psuedoinverse
+  - *EXCLUDING*: Applications of the SVD

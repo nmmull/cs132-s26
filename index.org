@@ -77,7 +77,7 @@ on the material for) the version of the course taught by [[https://www.cs.bu.edu
 | 4/22 | [[file:labs/6/lab6.pdf][Lab 6: Multiple Regression]] ([[file:labs/6/lab6.py][lab6.py]])                            |                                       |
 | 4/23 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L24SymmetricMatrices.html][Quadratic Forms]] (Workshop)                                      | [[file:assignments/12/assign12.org][A12]] out, A11 due                      |
 |------+-----------------------------------------------------------------+---------------------------------------|
-| 4/27 | Final Exam Review                                               | [[file:final/practice-final-1.pdf][Practice Exam]]                         |
+| 4/27 | Final Exam Review                                               | [[file:final/final-exam.org][Final Exam Prep Material]]              |
 | 4/28 | [[http://mcrovella.github.io/CS132-Geometric-Algorithms/L25SVD.html][Singular Value Decomposition]]                                    |                                       |
 | 4/30 | [[https://mcrovella.github.io/CS132-Geometric-Algorithms/L26ApplicationsOfSVD.html][Applications of SVD]]                                             | A12 due                               |
 |------+-----------------------------------------------------------------+---------------------------------------|
