@@ -16,10 +16,10 @@ we've done before.
   appear in this textbook.[fn::it's an open secret that it's not
   difficult to find a pdf copy of this text]
 * Practice Exams
-+ [[file:practice-final-1.pdf][practice exam (1)]]
-+ [[file:practice-final-2.pdf][practice exam (2)]]
-+ [[file:practice-final-3.pdf][practice exam (3)]]
-+ [[file:practice-final-4.pdf][practice exam (4)]]
++ [[file:practice-final-1.pdf][practice exam (1)]] [[file:practice-final-1-sol.pdf][solutions]]
++ [[file:practice-final-2.pdf][practice exam (2)]] [[file:practice-final-2-sol.pdf][solutions]]
++ [[file:practice-final-3.pdf][practice exam (3)]] [[file:practice-final-3-sol.pdf][solutions]]
++ [[file:practice-final-4.pdf][practice exam (4)]] [[file:practice-final-4-sol.pdf][solutions]]
 * Topics
 ** Systems of linear equations
   - Counting solutions
